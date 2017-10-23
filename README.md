@@ -1,2 +1,0 @@
-# PietrowaGra
-In JS
